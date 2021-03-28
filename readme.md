@@ -1,4 +1,4 @@
 
-1.python3 -m venv env
-2.pip3 install -r requirements.txt
+1.python3 -m venv env <br/>
+2.pip3 install -r requirements.txt <br />
 3.jupyter-lab
